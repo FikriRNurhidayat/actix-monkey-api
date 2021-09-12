@@ -1,0 +1,10 @@
+[package]
+name = "actix-monkey-api"
+version = "0.1.0"
+authors = ["Fikri Rahmat Nurhidayat <fikrirnurhidayat@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+actix-web = "3"
